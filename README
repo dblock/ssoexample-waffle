@@ -4,7 +4,7 @@ Start the server using the following (changing the ip address to either to the i
 
 	server.bat -n 10.0.1.165 -p 8888
 
-Start the client on the citrix client using the following:
+Start the client using the following:
 
 	client.bat -n 10.0.1.165 -p 8888
 
